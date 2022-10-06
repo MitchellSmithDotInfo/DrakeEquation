@@ -1,0 +1,6 @@
+# Dr. Frank Drake formulated and equation in 1961 not for the purpose of quantifying the number of civilizations 
+# but as a way to simulate scientific dialogue at the first scientific meeting on the search for extraterrestrial intelligence (SETI)[1][2]
+# This repository is meant to provide and R script which can be modified easy by future parties and easily visualize the equation.
+
+# [1] Chapter 3 – Philosophy: "Solving the Drake Equation". Ask Dr. SETI. SETI League. December 2002. Retrieved 10 April 2013.
+# [2] Drake, N. (30 June 2014). "How my Dad's Equation Sparked the Search for Extraterrestrial Intelligence". National Geographic. Retrieved 2 October 2016.
